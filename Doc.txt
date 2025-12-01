@@ -1,0 +1,18 @@
+Run to start
+Menu options " save- save game, reroll- reroll current rom, quit- exit game."
+
+Navigate to different rooms.
+
+=== Focus on creating rooms and beeing able to navigate the map===
+==use char to assign value to exits? North South West East?==
+
+
+fjern room exit og occupants, lage nye funksjoner for dem. 
+fikse så man kan avslutte programet med en 'quit'command
+lage underrom til hovedrom
+
+loottable: lage generics for å implementere random loot?
+
+MonsterTable: generics for random monster encounters? 
+
+
