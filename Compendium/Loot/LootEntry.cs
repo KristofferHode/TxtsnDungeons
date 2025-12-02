@@ -13,7 +13,7 @@ public class LootEntry
         MinQuantity= minQuantity;
         MaxQuantity= maxQuantity;
     }
- public LootEntry goldEntry = new LootEntry(gold, 1.0 ,5 ,10);
- public LootEntry swordEntry= new LootEntry(sword,0.25,0,1);
- public LootEntry shieldEntry= new LootEntry(shield,0.25,0,1);
+ public LootEntry GoldEntry = new LootEntry(ItemList.gold, 1.0 ,5 ,10);
+ public LootEntry SwordEntry= new LootEntry(ItemList.sword,0.25,0,1);
+ public LootEntry ShieldEntry= new LootEntry(ItemList.shield,0.25,0,1);
 }

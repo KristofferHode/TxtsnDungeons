@@ -18,9 +18,8 @@ class Program
 
             Console.WriteLine("Where do you want to go?");
             string inputDirection = Console.ReadLine()?.ToLower()??"";
-
-
-            DungeonRoom.DungeonRoom? nextRoom =inputDirection switch
+            
+             DungeonRoom.DungeonRoom? nextRoom =inputDirection switch
             {
                 "north"=>CurrentRoom.North,
                 "south"=>CurrentRoom.South,
@@ -34,10 +33,12 @@ class Program
                 Console.WriteLine("You cant go that way");
             }
 
+            
+
             else
             {
                 CurrentRoom =nextRoom;
-            }
+            }  
         }
     }
 }

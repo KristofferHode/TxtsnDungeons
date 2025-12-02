@@ -10,7 +10,7 @@ public class DungeonMap
     {
         StartRoom=BuildMap();
     }
-    private DungeonRoom.DungeonRoom BuildMap()
+    public DungeonRoom.DungeonRoom BuildMap()
     {
         var AtTheGates =new DungeonRoom.DungeonRoom("The Gates", "The City gates","no occupants",3);
         var Courtyard= new DungeonRoom.DungeonRoom("Courtyards","The courtyard, foul stech fills the place","Corpses, source of the stench.",0);
