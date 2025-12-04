@@ -15,4 +15,6 @@ loottable: lage generics for å implementere random loot?
 
 MonsterTable: generics for random monster encounters? 
 
+====
+Create a room with objects that can be interacted with.
 
