@@ -1,6 +1,6 @@
 namespace TxtsnDungeons.Compendium.Loot;
 
-public class ItemList
+public static class ItemList
 {   
     public static Item gold =new Item("Gold","Currency, used to buy items", 1);
     public static Item sword = new Item("Sword","Basic sword made of iron",10);
