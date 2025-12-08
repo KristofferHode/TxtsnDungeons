@@ -5,9 +5,4 @@ using Microsoft.VisualBasic;
 
 namespace TxtsnDungeons;
 
-public class MonsterEncounter
-{
-    public string? Monsters;
-    public int MonsterStats;
-    
-}
+public class MonsterEncounter;

@@ -14,9 +14,8 @@ public class MonsterStats
         MonsterATK=monsterATK;
         MonsterDEF=monsterDEF;
     }
-    public MonsterStats WeakMonster=new MonsterStats(5,4,3);
-
+    public static MonsterStats WeakMonster=new MonsterStats(5,4,3);
+    public static MonsterStats MediumMonster=new MonsterStats(10,8,6);
     
-        
     
 }

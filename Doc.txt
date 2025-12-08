@@ -21,4 +21,5 @@ Create a room with objects that can be interacted with.
 Bygge opp Monsterencounter med dataen jeg har laget tidligere(MonsterTable,MonsterStats) 
 for å konstruere ett MonsterEncounter som kan brukes i rom. 
 
+ganske sikker på at Items burde kunne burkes til test generics, kjøre det for uke2 testen.
 
