@@ -17,4 +17,8 @@ MonsterTable: generics for random monster encounters?
 
 ====
 Create a room with objects that can be interacted with.
+===
+Bygge opp Monsterencounter med dataen jeg har laget tidligere(MonsterTable,MonsterStats) 
+for å konstruere ett MonsterEncounter som kan brukes i rom. 
+
 
